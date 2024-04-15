@@ -21,7 +21,7 @@ const Navbar = () => {
         <CgClose size={25} />
         </div>
         <Link>
-          <p className="text-lg underline">our story</p>
+          <p className="text-lg underline">our story hello</p>
         </Link>
         <Link>
           <p className="text-lg">Membership</p>
