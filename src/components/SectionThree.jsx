@@ -33,8 +33,8 @@ const SectionThree = () => {
         </div>
       </div>
       <div className="flex flex-col items-center pt-24 pb-16 px-5 text-center">
-        <h1 className="text-4xl sm:text-6xl md:text-[7rem]">Create the space for your</h1>
-        <h1 className="text-4xl sm:text-6xl md:text-[7rem">thinking to take off.</h1>
+        <h1 className="text-5xl sm:text-7xl md:text-[7rem]">Create the space for your</h1>
+        <h1 className="text-5xl sm:text-7xl md:text-[7rem]">thinking to take off.</h1>
         <p className="text-lg md:text-xl w-full md:w-[700px] mt-6 font-roboto">
         A blank page is also a door. At Medium you can walk through it. It's easy and free to share your thinking on any topic, connect with an audience, express yourself with a range of publishing tools, and even earn money for your work.
         </p>

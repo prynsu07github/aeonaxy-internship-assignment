@@ -4,8 +4,8 @@ const SectionFour = () => {
   return (
     <div className='bg-[#36A243] overflow-hidden '>
         <div className="flex flex-col items-center pt-16 md:pt-24 pb-20 px-5 text-center border-b-2 border-b-black">
-        <h1 className="text-4xl sm:text-6xl md:text-[7rem]">Get more with</h1>
-        <h1 className="text-4xl sm:text-6xl md:text-[7rem]">membership.</h1>
+        <h1 className="text-5xl sm:text-7xl md:text-[7rem]">Get more with</h1>
+        <h1 className="text-5xl sm:text-7xl md:text-[7rem]">membership.</h1>
         <p className="text-lg md:text-xl w-full md:w-[700px] mt-6 font-roboto">
         Become a Medium member to enjoy unirmited access and directly support the writers you read most.
         </p>

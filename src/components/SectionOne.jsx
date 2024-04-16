@@ -1,10 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
-import Navbar from "./Navbar";
-
 const SectionOne = () => {
   return (
     <div className="overflow-hidden">
-      <Navbar />
       <div className="flex items-center justify-center py-16 md:py-32 px-5 xl:px-0 border-2 border-b-black h-[88vh] md:h-auto">
         <h1 className="text-6xl sm:text-7xl md:text-[7rem] font-serif">
           Every idea needs a <span className="font-bold">Medium.</span>

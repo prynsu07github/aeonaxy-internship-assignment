@@ -4,7 +4,7 @@ const SectionFive = () => {
   return (
     <div className='bg-[#B4E5A3] grid lg:grid-cols-2 border-b-2 border-b-black overflow-hidden'>
       <div className='px-5 py-10 md:p-10 grid gap-8 lg:gap-16'>
-        <h1 className='text-4xl sm:text-6xl md:text-[7rem]'>Take Medium with you.</h1>
+        <h1 className='text-5xl sm:text-7xl md:text-[7rem]'>Take Medium with you.</h1>
         <p className='text-lg md:text-xl font-roboto'>Download the app so you can read wherever you are.</p>
         <div className='flex gap-4 md:gap-8 w-fit'>
           <Link to={'/'}>
