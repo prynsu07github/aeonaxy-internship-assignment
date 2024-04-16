@@ -11,7 +11,9 @@ const Navbar = () => {
   return (
     <div className="p-5 flex justify-between border-2 border-b-black h-[12vh] md:h-auto relative">
       <div className="flex items-center">
+        <Link to={'/'}>
         <img src="/medium-logo.png" alt="logo" className="h-4 md:h-8" />
+        </Link>
       </div>
       <div className="flex md:hidden items-center" onClick={toggleMenu}>
         <FontAwesomeIcon icon={faBars} size="lg"/>
